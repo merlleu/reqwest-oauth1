@@ -1,11 +1,11 @@
 [package]
 name = "reqwest-oauth1"
 version = "0.2.0"
-authors = ["Karno <karnoroid@gmail.com>"]
+authors = ["Karno <karnoroid@gmail.com>", "Mr e-RL <mrerl@warlegend.net>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
 description = "Add OAuth1 signature to reqwest with oauth1-request."
-repository = "https://github.com/karno/reqwest-oauth1"
+repository = "https://github.com/merlleu/reqwest-oauth1"
 readme = "README.md"
 keywords = ["oauth", "reqwest", "request", "http"]
 categories = ["web-programming::http-client", "authentication"]
